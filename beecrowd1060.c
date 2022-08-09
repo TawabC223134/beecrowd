@@ -2,7 +2,6 @@
 int main()
 {
     double i,n,x,sum;
-    //scanf("%lf",&n);
     i=1;
     n=6;
     sum=0;
